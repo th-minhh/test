@@ -1,3 +1,4 @@
+//Sử dụng serial bluetooth terminal 
 #include "BluetoothSerial.h" // Thư viện Bluetooth Serial cho ESP32
 
 BluetoothSerial SerialBT; // Tạo đối tượng Bluetooth
